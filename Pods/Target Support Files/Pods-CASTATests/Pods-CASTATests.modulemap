@@ -1,0 +1,6 @@
+framework module Pods_CASTATests {
+  umbrella header "Pods-CASTATests-umbrella.h"
+
+  export *
+  module * { export * }
+}

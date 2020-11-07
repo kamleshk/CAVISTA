@@ -1,0 +1,6 @@
+framework module Pods_CASTAUITests {
+  umbrella header "Pods-CASTAUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
